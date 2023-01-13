@@ -5,7 +5,7 @@ This example server **does not** use any authentication and is only intended to 
 
 ## What it does
 This is a webhook receiver that also acts as a web server to serve the published pages and all assets.
-Only one project will be served at the time, and project paths are ignored.
+Only one project will be served at the time, and project paths are ignored. Page links are not supported.
 
 ## How to use
 ### Starting the server
